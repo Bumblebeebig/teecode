@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  - Reward
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 752012535
+    locked: 0
+  - name: Ground
+    uniqueID: 2750786281
+    locked: 0
+  - name: "Rewar\u0111"
+    uniqueID: 1433180509
+    locked: 0
+  - name: CloundAndObstacle
+    uniqueID: 399478893
+    locked: 0
+  - name: Player
+    uniqueID: 2444136519
+    locked: 0
